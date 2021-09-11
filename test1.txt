@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BAB6-CD9F
+
+ Directory of C:\Users\edit\Desktop\project
+
+09/11/2021  01:05 AM    <DIR>          .
+09/11/2021  01:05 AM    <DIR>          ..
+09/11/2021  01:05 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  23,262,552,064 bytes free
